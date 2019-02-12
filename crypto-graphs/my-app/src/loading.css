@@ -1,0 +1,17 @@
+#outer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+#center {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+#text {
+  font-size: 72px;
+}
